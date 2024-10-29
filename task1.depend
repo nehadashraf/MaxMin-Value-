@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1730195986 source:d:\work_space\iti scholarship\technical\day3\task1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1730195986 source:d:\work_space\iti scholarship\intro to programming c\labs\day3\task1\main.c
+	<stdio.h>
+	<stdlib.h>
+
